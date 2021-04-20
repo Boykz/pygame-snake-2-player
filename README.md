@@ -3,7 +3,7 @@
 
 py -m pip install -U pygame --user
 
-2 player Snake Game: (By Ahunjan)
+Snake Game with 2 players: (By Ahunjan)
 About the Game:
 
 Game controls:
