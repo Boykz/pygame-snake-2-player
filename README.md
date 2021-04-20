@@ -1,5 +1,4 @@
 # pygame-snake-2-player
-Snake Game with 2 players: (By Ahunjan)
 
 py -m pip install -U pygame --user
 
